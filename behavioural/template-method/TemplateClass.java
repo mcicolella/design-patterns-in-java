@@ -9,14 +9,14 @@ abstract class TemplateClass {
     }
 
     // this method should be implemented inside the derived class
-    abstract void step3();
+    protected abstract void step3();
 
     private void step4() {
         System.out.println("Executing step 4");
     }
 
     // Skeleton of the algorithm
-    void algorithm() {
+    public final void algorithm() {
         step1();
         step2();
         step3();
