@@ -1,4 +1,4 @@
 # Design patterns in Java
 
-* [Singleton](https://www.emmecilab.net/design-patterns-in-java-singleton/)
-* [Template Method](https://www.emmecilab.net/design-patterns-in-java-template-method/)
+* [Singleton](https://www.emmecilab.net/blog/design-patterns-in-java-singleton/)
+* [Template Method](https://www.emmecilab.net/blog/design-patterns-in-java-template-method/)
