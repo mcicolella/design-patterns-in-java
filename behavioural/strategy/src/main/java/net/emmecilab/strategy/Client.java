@@ -10,6 +10,8 @@ public class Client {
         Document doc = new Document();
         doc.setSavingStrategy(new SaveAsTxt());
         doc.save("Data to save");
+          doc.setSavingStrategy(new SaveAsPdf());
+        doc.save("Data to save");
 
     }
 }

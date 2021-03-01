@@ -18,9 +18,10 @@ public class Document {
     public void setSavingStrategy(SavingStrategy strategy) {
         this.strategy = strategy;
     }
-    
-    public void save(String data){
-    strategy.save(data);
+
+    public void save(String data) {
+        strategy.save(data);
+
     }
 
 }

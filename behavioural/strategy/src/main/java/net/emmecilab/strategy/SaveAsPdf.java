@@ -8,6 +8,6 @@ public class SaveAsPdf implements SavingStrategy {
 
     @Override
     public void save(String data) {
-        System.out.println("Saving '" + data + "' as pdf");
+        System.out.println("New version of Saving '" + data + "' as pdf");
     }
 }
