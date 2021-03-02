@@ -6,3 +6,5 @@
 
 # Libri consigliati
 * [Head First Design Patterns (Inglese)](https://amzn.to/2YtOVMv)
+* [Elements of Reusable Object-Oriented Software (Inglese)](https://amzn.to/3kCP7Dp)
+* [Design patterns (Italiano)](https://amzn.to/3kCP7Dp)
