@@ -4,9 +4,6 @@ package net.emmecilab.design.pattern.factory;
  *
  * @author Mauro Cicolella
  */
-public class FactoryExample {
-
-    public static void main(String[] args) {
-
-    }
+public enum TipoFigura {
+    CERCHIO, RETTANGOLO, TRIANGOLO;
 }
