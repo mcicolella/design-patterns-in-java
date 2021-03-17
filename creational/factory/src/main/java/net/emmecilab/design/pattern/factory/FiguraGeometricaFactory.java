@@ -6,7 +6,7 @@ package net.emmecilab.design.pattern.factory;
  */
 public class FiguraGeometricaFactory {
 
-    public static FiguraGeometrica getFiguraGeometrica(TipoFigura figura) {
+    public static FiguraGeometrica createFiguraGeometrica(TipoFigura figura) {
         switch (figura) {
             case CERCHIO:
                 return new Cerchio();

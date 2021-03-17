@@ -8,10 +8,10 @@ public class Client {
 
     public static void main(String[] args) {
 
-        FiguraGeometrica cerchio = FiguraGeometricaFactory.getFiguraGeometrica(TipoFigura.CERCHIO);
+        FiguraGeometrica cerchio = FiguraGeometricaFactory.createFiguraGeometrica(TipoFigura.CERCHIO);
         cerchio.disegna();
 
-        FiguraGeometrica triangolo = FiguraGeometricaFactory.getFiguraGeometrica(TipoFigura.TRIANGOLO);
+        FiguraGeometrica triangolo = FiguraGeometricaFactory.createFiguraGeometrica(TipoFigura.TRIANGOLO);
         triangolo.disegna();
     }
 }
