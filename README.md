@@ -1,5 +1,10 @@
 # Design patterns in Java
 
+<p>
+  <a href="https://www.linkedin.com/in/mauro-cicolella-0b107076/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="https://twitter.com/emmecilab"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.youtube.com/c/emmecilab"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+
 * [Factory](https://www.emmecilab.net/blog/design-patterns-in-java-factory/) - [:movie_camera:](https://youtu.be/zDVoYMPWyPo)
 * [Singleton](https://www.emmecilab.net/blog/design-patterns-in-java-singleton/) - [:movie_camera:](https://youtu.be/RGQ3Zf6-M7s)
 * [Strategy] - [:movie_camera:](https://youtu.be/qsC6S29dE48)
@@ -12,6 +17,3 @@
 * [Design patterns (Italiano)](https://amzn.to/3kCP7Dp)
 
 
-## Get in touch
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mcicolella)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mauro-cicolella-0b107076//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmmeCiLab-114063663344644)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@emmecilab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.emmecilab.net) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='website' height='40'>](https://www.youtube.com/c/emmecilab) 
