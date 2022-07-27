@@ -1,3 +1,5 @@
+package net.emmecilab.design.pattern.singleton;
+
 public class Singleton {
 
     private volatile static Singleton instance;
