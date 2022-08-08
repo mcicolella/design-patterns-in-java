@@ -7,6 +7,7 @@
   <a href="https://www.patreon.com/emmecilab"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height=25></a>
 
 * [Factory](https://www.emmecilab.net/blog/design-patterns-in-java-factory/) - [:movie_camera:](https://youtu.be/zDVoYMPWyPo)
+* [Observer](https://www.emmecilab.net/blog/design-patterns-in-java-observer)
 * [Singleton](https://www.emmecilab.net/blog/design-patterns-in-java-singleton/) - [:movie_camera:](https://youtu.be/RGQ3Zf6-M7s)
 * [Strategy] - [:movie_camera:](https://youtu.be/qsC6S29dE48)
 * [Template Method](https://www.emmecilab.net/blog/design-patterns-in-java-template-method/) - [:movie_camera:](https://youtu.be/JH28N9oWi-Y)
