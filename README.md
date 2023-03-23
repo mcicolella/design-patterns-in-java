@@ -19,4 +19,11 @@
 * [Elements of Reusable Object-Oriented Software (ENG)](https://amzn.to/3kCP7Dp)
 * [Design patterns (ITA)](https://amzn.to/3kCP7Dp)
 
+## Other interesting repos
+* [Docker examples](https://github.com/mcicolella/docker-examples)
+* [Spring Batch examples](https://github.com/mcicolella/spring-batch-examples)
+* [Spring framework examples](https://github.com/mcicolella/spring-framework-examples)
+* [Corso JPA](https://github.com/mcicolella/corso-jpa-java-persistence-api)
+* [Esercitazioni Spring Boot](https://github.com/mcicolella/esercitazioni-spring-boot)
+* [Kubernetes examples](https://github.com/mcicolella/kubernetes-examples)
 
