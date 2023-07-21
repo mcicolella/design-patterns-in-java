@@ -4,7 +4,7 @@ public class TVOnState implements State {
 
 	@Override
 	public void doOperation() {
-		System.out.println("TV turned ON");
+		System.out.println("TV turned OFF");
 	}
 
 }

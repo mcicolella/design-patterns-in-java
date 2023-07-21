@@ -9,9 +9,9 @@ public class TVRemote {
 
 	public void doOperation() {
 		if (state.equalsIgnoreCase("ON")) {
-			System.out.println("TV turned ON");
-		} else if (state.equalsIgnoreCase("OFF")) {
 			System.out.println("TV turned OFF");
+		} else if (state.equalsIgnoreCase("OFF")) {
+			System.out.println("TV turned ON");
 		}
 	}
 }
