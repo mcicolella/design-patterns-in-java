@@ -8,7 +8,7 @@
 
 * [Decorator](https://www.emmecilab.net/blog/design-patterns-in-java-decorator)
 * [Factory](https://www.emmecilab.net/blog/design-patterns-in-java-factory/) - [:movie_camera:](https://youtu.be/zDVoYMPWyPo)
-* [Observer](https://www.emmecilab.net/blog/design-patterns-in-java-observer)
+* [Observer](https://www.emmecilab.net/blog/design-patterns-in-java-observer) - [:movie_camera:](https://youtu.be/O-QfeaSHjeQ)
 * [Singleton](https://www.emmecilab.net/blog/design-patterns-in-java-singleton/) - [:movie_camera:](https://youtu.be/RGQ3Zf6-M7s)
 * [State](https://www.emmecilab.net/blog/design-patterns-in-java-state)
 * Strategy - [:movie_camera:](https://youtu.be/qsC6S29dE48)
