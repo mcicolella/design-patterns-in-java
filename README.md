@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/c/emmecilab"><img src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
   <a href="https://www.patreon.com/emmecilab"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" height=25></a>
 
-* [Decorator](https://www.emmecilab.net/blog/design-patterns-in-java-decorator)
+* [Decorator](https://www.emmecilab.net/blog/design-patterns-in-java-decorator) - [:movie_camera:](https://youtu.be/55vFAnLfRJ4)
 * [Factory](https://www.emmecilab.net/blog/design-patterns-in-java-factory/) - [:movie_camera:](https://youtu.be/zDVoYMPWyPo)
 * [Observer](https://www.emmecilab.net/blog/design-patterns-in-java-observer) - [:movie_camera:](https://youtu.be/O-QfeaSHjeQ)
 * [Singleton](https://www.emmecilab.net/blog/design-patterns-in-java-singleton/) - [:movie_camera:](https://youtu.be/RGQ3Zf6-M7s)
