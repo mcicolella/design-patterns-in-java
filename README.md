@@ -14,9 +14,9 @@
 * [Template Method](https://www.emmecilab.net/blog/design-patterns-in-java-template-method/) - [:movie_camera:](https://youtu.be/JH28N9oWi-Y)
 
 ## Recommended books
-* [Head First Design Patterns (ENG)](https://amzn.to/4gq8Lh2)
-* [Elements of Reusable Object-Oriented Software (ENG)](https://amzn.to/40GBHvq)
-* [Design patterns (ITA)](https://amzn.to/3WPPZsD)
+* [Head First Design Patterns (ENG)](https://amzn.to/41SJ7gR)
+* [Elements of Reusable Object-Oriented Software (ENG)](https://amzn.to/3DtBC6N)
+* [Design patterns (ITA)](https://amzn.to/4hqCoPG)
 
 ## Other interesting repos
 * [Docker examples](https://github.com/mcicolella/docker-examples)
